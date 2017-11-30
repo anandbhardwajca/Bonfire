@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "156743012104",
+    "firebase_url": "https://bonfire-5103d.firebaseio.com",
+    "project_id": "bonfire-5103d",
+    "storage_bucket": "bonfire-5103d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156743012104:android:26b9c393e6127505",
+        "android_client_info": {
+          "package_name": "com.androidsalad.bonfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156743012104-n7ebanu4m9vvamqpr7i8s3kionb7n70j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidsalad.bonfire",
+            "certificate_hash": "60502543613142e16943616cda39a90a4d5de461"
+          }
+        },
+        {
+          "client_id": "156743012104-vq738ufcce5m5v47rqscrn3akkaui4gi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidsalad.bonfire",
+            "certificate_hash": "404360008af12d33cb31ebc1b10b4fce33a189b3"
+          }
+        },
+        {
+          "client_id": "156743012104-p3e2t2jvddepdalclg1nse0t09pvfcbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Ard218XeFgih8-mo77xJJrsup4VRGLg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156743012104-p3e2t2jvddepdalclg1nse0t09pvfcbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

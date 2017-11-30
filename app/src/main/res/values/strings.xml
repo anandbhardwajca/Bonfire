@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bonfire</string>
+    <string name="text_views">Views</string>
+    <string name="text_likes">Likes</string>
+    <string name="text_comment">Comments</string>
+    <string name="text_photos">Photos</string>
+    <string name="text_date">Date</string>
+    <string name="btn_save">SAVE</string>
+    <string name="hint_add_text">Add Some Text to your Post</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+
+    <string name="facebook_app_id">152473532011140</string>
+</resources>
